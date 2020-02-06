@@ -32,7 +32,7 @@
 $db='id12251806_bookmarkext';
 $server ='localhost';
 $username = 'id12251806_localhost';
-$password='golugolu';
+$password='**********';
 $conn = new mysqli($server,$username,$password,$db);
 
 $fh = fopen('data.json', 'w');
